@@ -3,4 +3,4 @@ Designed and implemented an ETL pipeline on Databricks, orchestrated with Azure 
 
 
  ### Dashboard
-  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/Final_Funnel_Chart.png))
+  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/Final_Funnel_Chart.png)
