@@ -3,4 +3,7 @@ Designed and implemented an ETL pipeline on Databricks, orchestrated with Azure 
 
 
  ### Dashboard
+
+ This funnel chart represents the customer conversion rate by stage, showing that only 75.74% of users completed the registration process to open a bank account through the mobile app.
+ 
   ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/Final_Funnel_Chart.png)
