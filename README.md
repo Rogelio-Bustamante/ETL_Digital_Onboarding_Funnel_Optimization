@@ -3,6 +3,10 @@ In this project, I contributed to the design and development of an end-to-end ET
 
 The solution focused on analyzing user behavior within a mobile app that enables account opening without visiting a branch. Drop-off patterns, average time per stage, and conversion differences by region and age group were identified. These insights enabled the business to redesign parts of the process to improve conversion rates.
 
+ ### ETL Processes
+ 
+  ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/ETL_processes.png)
+
  ### Dashboard
 
  This funnel chart represents the customer conversion rate by stage, showing that only 75.74% of users completed the registration process to open a bank account through the mobile app.
