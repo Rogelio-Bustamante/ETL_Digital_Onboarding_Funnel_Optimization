@@ -9,7 +9,7 @@ The solution focused on analyzing user behavior within a mobile app that enables
 
  ### Dashboard
 
- This funnel chart represents the customer conversion rate by stage, showing that only 75.74% of users completed the registration process to open a bank account through the mobile app.
+ This funnel chart represents the customer conversion rate by stage, showing that only 75.75% of users completed the registration process to open a bank account through the mobile app.
  
   ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/Final_Funnel_Chart.png)
 
