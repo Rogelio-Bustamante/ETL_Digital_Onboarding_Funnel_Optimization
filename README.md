@@ -10,7 +10,7 @@ Designed and implemented an ETL pipeline on Databricks, orchestrated with Azure 
 
  ### Automate Workflow
 
- This Job allow us to automaticallly orchestrate the tasks (ETL processes) execution defined in the notebooks made. This Job were schedule to run periodically. 
+ This job allows us to automatically orchestrate the execution of tasks (ETL processes) defined in the notebooks. It is scheduled to run periodically. 
  
   ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/Scheduled_Job.png)
 
