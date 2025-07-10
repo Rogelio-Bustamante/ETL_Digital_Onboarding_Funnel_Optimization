@@ -1,5 +1,5 @@
 # ETL_Digital_Onboarding_Funnel_Optimization
-Designed and implemented an ETL pipeline on Databricks, orchestrated with Azure Data Factory, to analyze user behavior in a digital banking account opening process. Identified funnel drop-off points and generated insights to improve user-to-customer conversion.al funnel and generate insights to improve user-to-active-customer conversion rates.
+Design and implementation of an ETL pipeline on the Databricks platform, orchestrated with Azure Data Factory, aimed at analyzing and optimizing user behavior during the digital account opening process in a banking application. The objective was to identify drop-off points within the digital funnel and generate insights to improve user-to-active-customer conversion rates.
 
 
  ### Dashboard
