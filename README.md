@@ -5,6 +5,8 @@ The solution focused on analyzing user behavior within a mobile app that enables
 
  ### ETL Processes
  
+ This diagram presents a detailed representation of the complete ETL process implemented to accomplish the proposed objectives for this project.
+ 
   ![alt text](https://github.com/Rogelio-Bustamante/ETL_Digital_Onboarding_Funnel_Optimization/blob/main/ETL_processes.png)
 
  ### Dashboard
